@@ -12,4 +12,4 @@ O objetivo da criação da interface do aplicativo é conhecer melhor as tecnolo
 
 #Preview do APP
 
-<img src="https://github.com/CleiltonRocha/app-contacts-ui-react-native/.github/preview.jpg">
+<img src="https://github.com/CleiltonRocha/app-contacts-ui-react-native/blob/main/.github/preview.jpg" width="1280" height="720">
